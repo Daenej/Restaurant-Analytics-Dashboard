@@ -1,4 +1,4 @@
-#Restaurant Analytics Dashboard – Sales & Performance Insights
+**Restaurant Analytics Dashboard – Sales & Performance Insights**
 
 -Designed and developed an end-to-end business intelligence dashboard to streamline sales and performance tracking.
 
@@ -12,5 +12,12 @@
 
 -Delivered actionable insights that enabled data-driven inventory control and strategic decisions, reducing inventory costs by 30%.
 
+Dashboard Screenshots:
 ![Sales Overview](sales_overview.png)
+
+
+![Menu Analysis](menu_analysis.png)
+
+
+📌 **Disclaimer:** Due to data privacy reasons, source data files and Power BI (.pbix) file are not included in this repository.
 
