@@ -12,5 +12,5 @@
 
 -Delivered actionable insights that enabled data-driven inventory control and strategic decisions, reducing inventory costs by 30%.
 
-![Sales Overview](Sales Oveview.png)
+![Sales Overview](sales_overview.png)
 
