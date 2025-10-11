@@ -1,6 +1,11 @@
-**Restaurant Analytics Dashboard – Sales & Performance Insights**
+**Restaurant Analytics Dashboard – Sales & Predictive Insights**
 
-Designed and developed an end-to-end business intelligence dashboard to streamline sales and performance insights for a restaurant. Extracted and transformed raw .asc data files into structured .csv format using Python for seamless integration into Power BI. Modeled relational datasets using a star schema to optimize data relationships and enhance DAX calculation efficiency. Built an interactive Power BI dashboard featuring in-page navigation with bookmarks and buttons for a smooth and intuitive user experience. Leveraged DAX to uncover key business metrics such as top-selling items, peak sales hours, and customer trends. The insights enabled data-driven inventory control and strategic decision-making, ultimately reducing inventory costs by 20%.
+-Built ML-powered Power BI dashboard analyzing 9600+ transactions using Python and ARIMA Forecasting to predict
+next 14/30 days revenue.
+-Implemented a Random Forest churn model using RFM and behavioral features scoring 1992 customers into
+high/medium/low risk cohorts.
+-Created interactive dashboard with star-schema modeling and advanced DAX measures, delivering predictive insights
+that reduced inventory costs by 20% and optimized business operations.
 
 Dashboard Screenshots:
 
@@ -8,6 +13,9 @@ Dashboard Screenshots:
 
 
 ![Menu Analysis](menu_analysis.png)
+
+
+![Predictive Insights](predictive_insights.png)
 
 
 📌 **Disclaimer:** Due to data privacy reasons, source data files and Power BI (.pbix) file are not included in this repository.
