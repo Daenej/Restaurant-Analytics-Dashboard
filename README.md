@@ -2,8 +2,10 @@
 
 -Built ML-powered Power BI dashboard analyzing 9600+ transactions using Python and ARIMA Forecasting to predict
 next 14/30 days revenue.
+
 -Implemented a Random Forest churn model using RFM and behavioral features scoring 1992 customers into
 high/medium/low risk cohorts.
+
 -Created interactive dashboard with star-schema modeling and advanced DAX measures, delivering predictive insights
 that reduced inventory costs by 20% and optimized business operations.
 
