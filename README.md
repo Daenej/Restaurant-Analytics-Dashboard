@@ -1,4 +1,4 @@
-**Restaurant Analytics Dashboard – Sales & Predictive Insights**
+#Restaurant Analytics Dashboard – Sales & Predictive Insights
 
 -Built ML-powered Power BI dashboard analyzing 9600+ transactions using Python and ARIMA Forecasting to predict
 next 14/30 days revenue, achieving 15.8% MAPE.
