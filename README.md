@@ -1,9 +1,9 @@
 **Restaurant Analytics Dashboard – Sales & Predictive Insights**
 
 -Built ML-powered Power BI dashboard analyzing 9600+ transactions using Python and ARIMA Forecasting to predict
-next 14/30 days revenue.
+next 14/30 days revenue, achieving 15.8% MAPE.
 
--Implemented a Random Forest churn model using RFM and behavioral features scoring 1992 customers into
+-Implemented a Random Forest churn model (AUC: 0.95) using RFM and behavioral features scoring 1992 customers into
 high/medium/low risk cohorts.
 
 -Created interactive dashboard with star-schema modeling and advanced DAX measures, delivering predictive insights
